@@ -1,0 +1,25 @@
+{
+  "name": "db-be-advanced-coursepersonbooks-andreglock",
+  "version": "1.0.0",
+  "description": "- Your task is to create Schemas and Models for the following:     - Person: name, email and role (\"Student\" or \"Teacher\")     - Courses: title     - Books: title",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/db-be-advanced-coursepersonbooks-andreglock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/db-be-advanced-coursepersonbooks-andreglock/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/db-be-advanced-coursepersonbooks-andreglock#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "mongoose": "^6.0.9"
+  }
+}
